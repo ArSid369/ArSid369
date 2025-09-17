@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ArSid369
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning coding
+- 👋 Hi, I’m Arghyadeep Sikdar
+- 👀 I’m interested in Web Dev and DSA
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
