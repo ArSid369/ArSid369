@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning NextJS and Vibe coding using AI
 - 💞️ I’m looking to collaborate on NextJS or React or Typescript projects
 - 📫 How to reach me :
-  https://x.com/termin30629
 
 <!---
 ArSid369/ArSid369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
