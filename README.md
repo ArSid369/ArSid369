@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Arghyadeep Sikdar
-- 👀 I’m interested in Web Dev and DSA
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning NextJS and Vibe coding using AI
+- 💞️ I’m looking to collaborate on NextJS or React or Typescript projects
+- 📫 How to reach me :
+  https://x.com/termin30629
 
 <!---
 ArSid369/ArSid369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
